@@ -1,0 +1,23 @@
+{
+  "name": "creative-coding",
+  "version": "1.0.0",
+  "description": "learn creative coding as a hobby with Bruno Imbrizi",
+  "main": "sketch-04.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sansern/creative-coding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sansern/creative-coding/issues"
+  },
+  "homepage": "https://github.com/Sansern/creative-coding#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6"
+  }
+}
